@@ -1,10 +1,10 @@
-siteTitle = "Vijos Docs"
-vijosStaticHost = "//cdn.vijos.org/"
-vijosSiteTitle = "Vijos"
-vijosSiteUrl = "//vijos.org/"
-projectUrl = "https://github.com/vijos/about-vijos"
-editUrl = "https://github.com/vijos/about-vijos/blob/master/pages"
-prefix = "https://vijos.github.io/about-vijos"
+siteTitle = "BackMountOJ Docs"
+vijosStaticHost = "//zhtg.red/"
+vijosSiteTitle = "BackMountOJ"
+vijosSiteUrl = "//oj.zhtg.red/"
+projectUrl = "https://github.com/zhonghuatu/about-bmoj"
+editUrl = "https://github.com/zhonghuatu/about-bmoj/blob/master/pages"
+prefix = "https://zhonghuatu.github.io/about-bmoj/"
 linkPrefix = ""
 
 [[location]]
